@@ -7,7 +7,7 @@ if (topic === 'HTML') {
 } else if (topic === 'CSS') {
  console.log("Let's study CSS!");
 } else if (topic === 'Git') {
- console.log("Let's study Git!");
+ console.log("Let us study Git!");
 } else if (topic === 'JavaScript') {
  console.log("Let's study JavaScript!");
 } else {
